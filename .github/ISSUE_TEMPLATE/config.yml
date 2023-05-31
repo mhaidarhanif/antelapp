@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Ask a question
+    url: https://github.com/haidar-dev/anison-dev/discussions/category_choices
+    about: Ask questions and discuss with the community
+  - name: Visit the site
+    url: https://anison.haidar.dev
+    about: Check out the examples
