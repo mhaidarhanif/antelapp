@@ -1,15 +1,25 @@
 {
   "recommendations": [
+    "amimaro.remix-run-snippets",
+    "artdiniz.quitcontrol-vscode",
+    "austenc.tailwind-docs",
+    "avetis.tokyo-night",
+    "bourhaouta.tailwindshades",
     "bradlc.vscode-tailwindcss",
+    "chiangs.remix-ts-snippets",
     "csstools.postcss",
     "dbaeumer.vscode-eslint",
+    "dotenv.dotenv-vscode",
     "esbenp.prettier-vscode",
+    "faisalfajri.tailwind-dark-theme",
+    "johnpapa.vscode-peacock",
     "moalamri.inline-fold",
+    "pkief.material-icon-theme",
     "prisma.prisma",
-    "yzhang.markdown-all-in-one",
-    "chiangs.remix-ts-snippets",
+    "stivo.tailwind-fold",
     "yoavbls.pretty-ts-errors",
     "yutengjing.reload-can-solve-any-problems",
-    "dotenv.dotenv-vscode"
+    "yzhang.markdown-all-in-one",
+    "codeforge.remix-forge"
   ]
 }

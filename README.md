@@ -1,8 +1,8 @@
 # ツ Anison Dev
 
-![Anison Dev](https://raw.githubusercontent.com/haidar-dev/anison-dev/main/assets/screens/anison-dev.png)
+![Anison Dev](assets/images/anison-dev.png)
 
-[**ツ Anison Dev**](https://github.com/haidar-dev/anison-dev) by [Haidar Dev](https://github.com/haidar-dev) ([M Haidar Hanif](https://github.com/mhaidarhanif)) is an app development kit with Turborepo, Remix Stacks, React, Tailwind CSS, Prisma, PlanetScale, Vercel, and more. Also bring favorite stack from the JavaScript/TypeScript/Node.js ecosystem. Visit the main app at [anison.haidar.dev](https://anison.haidar.dev)
+[**ツ Anison Dev**](https://github.com/haidar-dev/anison-dev) by [M Haidar Hanif](https://github.com/mhaidarhanif) is an app development kit with Turborepo, Reac, Remix, Tailwind CSS, Prisma, MySQL on PlanetScale, Vercel, Docker, and more. Also bring other stack from the JavaScript, TypeScript, Node.js ecosystem. Visit the main app at [anison.haidar.dev](https://anison.haidar.dev)
 
 The goal is to be more prepared when building real world apps, ship things fast, and scale the project easily with many moving parts. This is a highly opinionated collection of software engineering and web development workflow, project structure, interactive UI components, functionality hooks and utilities.
 
