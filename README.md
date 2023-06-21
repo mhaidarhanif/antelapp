@@ -2,13 +2,13 @@
 
 ![ツ Anison Dev](assets/images/anison-dev.png)
 
-[**ツ Anison Dev**](https://github.com/haidar-dev/anison-dev) by [M Haidar Hanif](https://github.com/mhaidarhanif) is an app development kit with Turborepo, React, Remix, Tailwind CSS, Prisma, MySQL on PlanetScale, Vercel, Docker, and more. It's also possible to bring other things from the JavaScript, TypeScript, Node.js ecosystem.
+[**ツ Anison Dev**](https://github.com/haidar-dev/anison-dev) by [M Haidar Hanif](https://github.com/mhaidarhanif) is an app development kit with Turborepo, React, Remix, Tailwind CSS, Prisma, MySQL on PlanetScale, Vercel, Docker, and more. It's also possible to bring other things from the JavaScript, TypeScript, Node.js ecosystems.
 
 Visit the main demo at [anison.haidar.dev](https://anison.haidar.dev)
 
-The goal is to be more prepared when [building real world apps and ideas](guides/IDEAS.md), ship things fast, also scale the project easily with many moving parts.
+The goal is to be more prepared when [building real-world apps and ideas](guides/IDEAS.md), ship things fast, also scale the project easily with many moving parts.
 
-This is a highly opinionated collection of software engineering and web development workflow, monorepo project structure, ready to use interactive UI components, functionality hooks and utilities.
+This is a highly opinionated collection of software engineering and web development workflow, monorepo project structure, ready-to-use interactive UI components, feature hooks, and various utilities.
 
 If need something simpler without Turborepo, check out [Rewinds](https://rewinds.mhaidarhanif.com).
 
@@ -16,6 +16,7 @@ If need something simpler without Turborepo, check out [Rewinds](https://rewinds
 
 Please read these, ordered by importance:
 
+- [START HERE](guides/START_HERE.md): Start here first
 - [STACK](guides/STACK.md): Chosen stack details
 - [ENV](guides/ENV.md): Required environment variables
 - [DEVELOPMENT](guides/DEVELOPMENT.md): Development guide and quick start
@@ -41,6 +42,6 @@ Please read these, ordered by importance:
 
 ### Name and Symbol
 
-Anison means [anime song](https://en.wikipedia.org/wiki/Anime_song), following [Remix Stacks](https://remix.run/stacks) way with music-related names. Or similar with the word "unison", a simultaneous performance of action.
+Anison means [anime song](https://en.wikipedia.org/wiki/Anime_song), following [Remix Stacks](https://remix.run/stacks) way with music-related names. Or similar to the word "unison", simultaneous performance of action.
 
 ツ means the Japanese katakana syllable ["tsu"](https://en.wiktionary.org/wiki/%E3%83%84). It looks like an emoticon representing a smiling face.

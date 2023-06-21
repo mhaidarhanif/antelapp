@@ -14,6 +14,14 @@
   "files.encoding": "utf8",
   "files.insertFinalNewline": true,
   "files.trimTrailingWhitespace": true,
+  "grammarly.files.include": ["**/README.md"],
+  "grammarly.selectors": [
+    {
+      "language": "markdown",
+      "pattern": "guides/START_HERE.md",
+      "scheme": "file"
+    }
+  ],
   "peacock.color": "#0f172a",
   "search.exclude": {
     ".cache/**": true,

@@ -11,23 +11,25 @@ Choose your preference to start:
 
 In the local repo:
 
-- `git init` or `git status`
-- `pnpm install` to install dependencies
-- `cp .env.example .env` and setup the environment variables
-- `docker compose up -d` to run the database
-- `pnpm db:setup --filter=database` to push the schema, generate Prisma client, seed some data based on `database` package only
-- `pnpm build` to build all the apps
-- `pnpm dev` to run all the apps for development
-  - `pnpm dev:web` to run the web app only
+1. `git init` or `git status`
+2. `pnpm install` to install dependencies
+3. `cp .env.example .env` and setup the environment variables
+4. `docker compose up -d` to run the database
+5. `pnpm db:setup --filter=database` to push the schema, generate Prisma client, seed some data based on `database` package only
+6. `pnpm build` to build all the apps, make sure everything's fine
+7. `pnpm dev` to run all the apps for development
+   - `pnpm dev:web` to run the web app only
 
-In the browser, open:
+In the browser, either open:
 
-- `localhost:3000` (`web`) for primary web app
-- `localhost:3001` (`play`) for playground 🚧
-- `localhost:3030` (`docs`) for docs 🚧
-- `localhost:5173` (`admin`) for admin 🚧
+- `localhost:3000` (`web`) for default primary web app (Remix)
+- `localhost:3001` (`admin`) for admin (Vite) 🚧
+- `localhost:3002` (`docs`) for docs (Next.js + MDX) 🚧
+- `localhost:3003` (`play`) for playground (Vite) 🚧
+- `localhost:4000` (`graphql`) for GraphQL API (GraphQL Yoga) 🚧
+- `localhost:4040` (`rest`) for REST API (NestJS) 🚧
 
-Make sure everyting can run first. Then to explore the repo to replace the contents. As this is a template, not a blank repo generator.
+Make sure everything can run first. Then to explore the repo to replace the contents. As this is a template, not a repo generator.
 
 ## Install Dependencies
 
