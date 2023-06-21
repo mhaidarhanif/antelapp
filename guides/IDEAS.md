@@ -20,8 +20,8 @@ Use this to build multiple apps:
 - Applicant Tracking System (ATS)
 - Budgeting, Income or Expense Tracker
 - Inventory Management
-- Events Management
 - Knowledge Management
+- Event and Conference Management
 - Admin Panel or Dashboard
 - E-Commerce or Storefront
 - Product or Project Management

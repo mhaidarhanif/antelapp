@@ -1,14 +1,15 @@
 # Stack
 
-The complete primary stack are Node.js, TypeScript, Remix, Remix Auth, React, Tailwind CSS, Radix UI, Zod, Conform, Prisma ORM, PlanetScale, and Vercel. We also aim to prioritize which has open source option, free-tier, or freemium.
+The complete primary stack are JavaScript, TypeScript, Node.js, React, Remix, Remix Auth, Tailwind CSS, Radix UI, Zod, Conform, Prisma ORM, PlanetScale, and Vercel. Also aim to prioritize which has open source option, free-tier, or freemium.
 
 Legends:
 
-- 🧰 = required or should not be changed
+- 🎩 = Prioritized
+- 🧰 = Required or should not be changed
 - 🎉 = 3rd party service or platform
-- 🧩 = optional or interchangeable
-- 💠 = available as open source
-- 🚧 = still in development or not available
+- 🧩 = Optional or interchangeable
+- 💠 = Available as open source
+- 🚧 = Still in development or not available yet
 
 Reminder:
 
@@ -16,49 +17,65 @@ Reminder:
 
 ## Base
 
-- [JavaScript](https://developer.mozilla.org/javascript): main language 🧰
-- [TypeScript](https://typescriptlang.org) v5: typed language 🧰💠
-- [Node.js](https://nodejs.org) v18+: JavaScript runtime 🧰💠
-- [pnpm](https://pnpm.io) v8+: package manager 🧩💠
-- [Turborepo](https://turbo.build/repo): monorepo and build tool
+- [JavaScript](https://developer.mozilla.org/javascript): main language 🎩🧰
+- [TypeScript](https://typescriptlang.org) v5: typed language 🎩🧰💠
+- [Node.js](https://nodejs.org) v20+: JavaScript runtime 🎩🧰💠
+- [Turborepo](https://turbo.build/repo): monorepo and build tool 🎩🧰💠
+- [pnpm](https://pnpm.io) v8+: package manager 🎩🧩💠
 
 ## App
 
-- [React](https://react.dev) v18: UI library 🧰💠
-- [Remix](https://remix.run) v1-v2: web framework 🧰💠
+- [React](https://react.dev) v18: UI library 🎩🧰💠
+- [Remix](https://remix.run) v1-v2: web framework 🎩🧰💠
 
 ## Styling and Components
 
-- [Tailwind CSS](https://tailwindcss.com) v3: styling 🧰💠
-- [Fontsource](https://fontsource.org): web fonts 🧰
-- [Radix UI](https://radix-ui.com): unstyled UI components 🧰🧩💠
+- [Tailwind CSS](https://tailwindcss.com) v3: styling 🎩🧰💠
+- [Radix UI](https://radix-ui.com): unstyled UI components 🎩🧩💠
   - [Headless UI](https://headlessui.dev): unstyled UI components 🧩💠
   - [Ariakit](https://ariakit.org): unstyled UI components 🧩💠
-  - [shadcn UI](https://github.com/shadcn/ui): styled component library 🧩💠
+  - [shadcn UI](https://github.com/shadcn/ui): styled UI components 🎩🧩💠
 - [Icones](https://icones.js.org): icon search 💠
   - [Lucide](https://lucide.dev): icon set 💠
   - [Iconoir](https://iconoir.com): icon set 💠
-- [React Email](https://react.email): email styling 🚧🧩💠
+  - [Phosphor](https://phosphoricons.com): icon set 💠
+- [Fontsource](https://fontsource.org): web fonts 🎩💠
 - [TanStack Table](https://tanstack.com/table): unstyled table grid component 🚧🧩💠
+- [React Email](https://react.email): email styling 🚧🧩💠
 
 ## Form Handling and Data Validation
 
-- [Conform](https://conform.guide): form handling 🧰💠
-- [Zod](https://zod.dev): data validation 🧰💠
-  - [Zodix](https://github.com/rileytomasek/zodix) 🧩💠
-  - [zod-form-data](https://npmjs.com/package/zod-form-data) 🧩💠
+- [Conform](https://conform.guide): full stack validated form handling 🎩🧰💠
+- [Zod](https://zod.dev): data validation 🎩🧰💠
+  - [Zodix](https://github.com/rileytomasek/zodix) 💠
+  - [zod-form-data](https://npmjs.com/package/zod-form-data) 💠
+
+Alternatives:
+
+- [Remix Forms by Seasoned](https://remix-forms.seasoned.cc) 💠
 
 ## Database and ORM
 
-- [Prisma ORM](https://prisma.io) v4: database ORM 🧰💠
-- [MySQL](https://mysql.com) v8: database management system 🧰💠
-- [PlanetScale](https://planetscale.com): MySQL platform 🧩🎉💠
+- [Prisma ORM](https://prisma.io) v4: database ORM 🎩🧰💠
+- [MySQL](https://mysql.com) v8: database management system 🎩🧰💠
+- [PlanetScale](https://planetscale.com): MySQL platform 🎩🧩🎉💠
+
+Alternatives:
+
+- [Drizzle ORM](https://orm.drizzle.team) 💠
+
+## Data: Cache and Rate Limiter
+
+- [Upstash](https://upstash.com) 🧩🎉🚧
 
 ## Auth Provider
 
-- [Remix Auth](https://github.com/sergiodxa/remix-auth) 🧰💠
-  - [Lucia](https://lucia-auth.com) 🧩💠
-  - [Clerk](https://clerk.dev) 🧩🎉
+- [Remix Auth](https://github.com/sergiodxa/remix-auth) 🎩🧰💠
+
+Alternatives:
+
+- [Lucia](https://lucia-auth.com) 🧩💠
+- [Clerk](https://clerk.dev) 🧩🎉
 
 ## Tools: Code Quality
 
@@ -66,12 +83,19 @@ Reminder:
 - [ESLint](https://eslint.org): code linter 🧰💠
 - [Stylelint](https://stylelint.io): styling linter 🧰💠
 
+Alternatives:
+
+- [dprint](https://dprint.dev): blazing fast code formatter 💠
+
 ## Tools: Deployment
 
 - [Vercel](https://vercel.com) 🧰🧩🎉
-- [Fly](https://fly.io) 🧩🎉
+
+Alternatives:
+
 - [Render](https://render.com) 🧩🎉
 - [Railway](https://railway.app) 🧩🎉
+- [Fly](https://fly.io) 🧩🎉
 - [Google Cloud](https://cloud.google.com) 🧩🎉
 - [Amazon Web Services (AWS)](https://aws.amazon.com) 🧩🎉
 
@@ -82,32 +106,48 @@ Reminder:
 ## Tools: Environment Variable/Secret
 
 - [Doppler](https://doppler.com) 🧩🎉
+
+Alternatives:
+
 - [Dotenv](https://dotenv.org) 🧩🎉
   - [EnvShare](https://envshare.dev) 🧩🎉
 
 ## Tools: Analytics
 
-- [Vercel Analytics](https://vercel.com/docs/concepts/analytics) 🧩🎉
+- [Vercel Analytics](https://vercel.com/docs/concepts/analytics) 🎩🧩🎉
   - Enable it on your Vercel projects dashboard
   - [Vercel Pro](https://vercel.com/docs/concepts/payments-and-billing/pro) to have easier code review with preview deployments, also use shared build cache from Turborepo
+
+Alternatives:
+
 - [Posthog](https://posthog.com): product platform and data tools 🧩🎉💠
 - [Jitsu](https://jitsu.com): data pipeline and ingestion 🚧🧩🎉💠
 
 ## Tools: Image
 
-- Placeholders
-  - [Dicebear](http://dicebear.com): avatar placeholder 🧩🎉💠
-- Stock
-  - [Unsplash](http://unsplash.com): image placeholder 🚧🧩🎉
-- Upload and assets
-  - [Uploadcare](https://uploadcare.com): assets management 🧩🎉
-  - [ImageKit](https://imagekit.io): assets management 🚧🧩🎉
-  - [Cloudinary](https://cloudinary.com): assets management 🚧🧩🎉
-  - [UploadThing](http://uploadthing): upload management 🚧🧩💠
-- Maps
-  - [Mapbox](https://example.com) 🚧🧩💠
-  - [`mapbox-gl`](https://example.com)
-  - [`react-map-gl`](https://example.com)
+### Placeholder Images
+
+- [Dicebear](http://dicebear.com): avatar placeholder 🧩🎉💠
+
+### Stock Images
+
+- [Unsplash](http://unsplash.com): image placeholder 🚧🧩🎉
+
+### Upload Images and assets
+
+- [Uploadcare](https://uploadcare.com): assets management 🎩🧩🎉
+
+Alternatives:
+
+- [ImageKit](https://imagekit.io): assets management 🚧🧩🎉
+- [Cloudinary](https://cloudinary.com): assets management 🚧🧩🎉
+- [UploadThing](http://uploadthing): upload management 🚧🧩💠
+
+### Maps
+
+- [Mapbox](https://mapbox.com) 🚧🧩
+  - [Mapbox GL JS](https://github.com/mapbox/mapbox-gl-js) 🚧🧩💠
+  - [`react-map-gl`](https://visgl.github.io/react-map-gl) 🚧🧩💠
 
 ## Tools: Video
 
@@ -115,23 +155,22 @@ Reminder:
 
 ## Tools: Transactional Email 🚧
 
-- [Resend](https://resend.com) 🚧🧩🎉
-- [Mailjet](https://mailjet.com) 🚧🧩🎉
+- [Resend](https://resend.com) 🎩🧰🧩🎉🚧
+- [Mailjet](https://mailjet.com) 🧩🎉🚧
 
 ## Tools: Marketing Email 🚧
 
-- [ConvertKit](https://convertkit.com) 🚧🧩🎉
-- [Bento](https://bentonow.com) 🚧🧩🎉
-
-## Tools: Cache and Rate Limiter
-
-- [Upstash](https://upstash.com) 🚧🧩🎉
+- [ConvertKit](https://convertkit.com) 🧩🎉🚧
+- [Bento](https://bentonow.com) 🧩🎉🚧
 
 ## Tools: Payment 🚧
 
-- [Lemon Squeezy](https://lemonsqueezy.com) 🚧🧩🎉
-- [Paddle](https://paddle.com) 🚧🧩🎉
-- [Stripe](https://stripe.com) 🚧🧩🎉
+- [Lemon Squeezy](https://lemonsqueezy.com) 🧩🎉🚧
+
+Alternatives:
+
+- [Paddle](https://paddle.com) 🧩🎉🚧
+- [Stripe](https://stripe.com) 🧩🎉🚧
 
 ## Tools: Testing 🚧
 
