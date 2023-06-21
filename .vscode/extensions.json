@@ -7,6 +7,7 @@
     "bourhaouta.tailwindshades",
     "bradlc.vscode-tailwindcss",
     "chiangs.remix-ts-snippets",
+    "codeforge.remix-forge",
     "csstools.postcss",
     "dbaeumer.vscode-eslint",
     "dotenv.dotenv-vscode",
@@ -16,10 +17,8 @@
     "moalamri.inline-fold",
     "pkief.material-icon-theme",
     "prisma.prisma",
-    "stivo.tailwind-fold",
     "yoavbls.pretty-ts-errors",
     "yutengjing.reload-can-solve-any-problems",
-    "yzhang.markdown-all-in-one",
-    "codeforge.remix-forge"
+    "yzhang.markdown-all-in-one"
   ]
 }
