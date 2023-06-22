@@ -1,28 +1,28 @@
-# START HERE EXAMPLE: Anison
+# START HERE EXAMPLE: Anything
 
-🎵 Anison is an "any song" music discovery app. Visit it live at [anison.haidar.dev](https://anison.haidar.dev).
+🎁 Anything is an "any thing" discovery app. Especially to discover words, tools, and technologies. Visit it live at [anything.haidar.dev](https://anything.haidar.dev).
 
 Features:
 
-- [x] Show, list, or get songs
-- [x] Search or filter songs with a keyword
+- [x] Show, list, or get things
+- [x] Search or filter things with a keyword
 - [x] Register and login for the user
-- [x] Add a new song
-- [x] Edit song
-- [x] Delete song
+- [x] Add a new thing
+- [x] Edit thing
+- [x] Delete thing
 
 Routes:
 
-- [x] `/`: Home and list of features songs
-- [x] `/songs`: List of all songs
-  - [x] `/songs/:slug`: Show one song by slug
-- [x] `/search`: Search for songs with a keyword
+- [x] `/`: Home and list of features things
+- [x] `/things`: List of all things
+  - [x] `/things/:slug`: Show one thing by slug
+- [x] `/search`: Search for things with a keyword
 - [x] `/register`: Register
 - [x] `/login`: Login
 - [x] `/logout`: Logout
-- [x] `/songs/add`: Add a new song
-- [x] `/songs/:slug/edit`: Edit song that added by the user
-- [x] `/songs/:slug/delete`: Delete song that added by the user
+- [x] `/things/add`: Add a new thing
+- [x] `/things/:slug/edit`: Edit thing that added by the user
+- [x] `/things/:slug/delete`: Delete thing that added by the user
 
 Steps:
 
@@ -63,7 +63,7 @@ The generic and specific tech stack being used for the app development such as:
 - Argon2
 - Docker and Docker Compose
 - React
-- Remix (included React Router)
+- Remix, included React Router
 - Tailwind CSS
 - Radix UI
 - Vercel
