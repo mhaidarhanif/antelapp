@@ -49,12 +49,12 @@ yarn add -g @antfu/ni
 pnpm i -g @antfu/ni
 ```
 
-| `ni` | `npm` | `yarn` | `pnpm` |
-| -- | -- | -- | -- |
-| `ni` | `npm i` | `yarn` | `pnpm i` |
-| `ni -D` | `npm i -D` | `yarn add -D` | `pnpm i -D` |
+| `ni`    | `npm`      | `yarn`            | `pnpm`      |
+| ------- | ---------- | ----------------- | ----------- |
+| `ni`    | `npm i`    | `yarn`            | `pnpm i`    |
+| `ni -D` | `npm i -D` | `yarn add -D`     | `pnpm i -D` |
 | `ni -g` | `npm i -g` | `yarn global add` | `pnpm i -g` |
-| `nlx` | `npx` | `yarn dlx` | `pnpm dlx` |
+| `nlx`   | `npx`      | `yarn dlx`        | `pnpm dlx`  |
 
 To install new package to a workspace:
 
@@ -124,6 +124,10 @@ Check the Prisma Schema examples:
 - <https://pris.ly/d/prisma-schema>
 - <https://github.com/remix-run/indie-stack/blob/main/prisma/schema.prisma>
 - <https://github.com/planetscale/beam/blob/main/prisma/schema.prisma>
+
+### REPL
+
+Use `prisma-repl` to try various things.
 
 ## File Upload with Uploadcare
 

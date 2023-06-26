@@ -1,8 +1,8 @@
-# ツ Anison Dev
+# 🦌 The Anison Stack
 
-![ツ Anison Dev](assets/images/anison-dev.png)
+![🦌 The Anison Stack](assets/images/anison-stack.png)
 
-[**ツ Anison Dev**](https://github.com/haidar-dev/anison-dev) by [M Haidar Hanif](https://github.com/mhaidarhanif) is an app development kit with Turborepo, React, Remix, Tailwind CSS, Prisma, MySQL on PlanetScale, Vercel, Docker, and more. It's also possible to bring other things from the JavaScript, TypeScript, Node.js ecosystems.
+[**🦌 The Anison Stack**](https://github.com/haidar-dev/anison-stack) by [M Haidar Hanif](https://github.com/mhaidarhanif) is an app development kit with Turborepo, React, Remix, Tailwind CSS, Prisma, MySQL on PlanetScale, Vercel, Docker, and more. It's also possible to bring other things from the JavaScript, TypeScript, Node.js ecosystems.
 
 Visit the main demo at [anison.haidar.dev](https://anison.haidar.dev)
 
@@ -42,6 +42,4 @@ Please read these, ordered by importance:
 
 ### Name and Symbol
 
-Anison means [anime song](https://en.wikipedia.org/wiki/Anime_song), following [Remix Stacks](https://remix.run/stacks) way with music-related names. Or similar to the word "unison", simultaneous performance of action.
-
-ツ means the Japanese katakana syllable ["tsu"](https://en.wiktionary.org/wiki/%E3%83%84). It looks like an emoticon representing a smiling face.
+Anison means [anime song](https://en.wikipedia.org/wiki/Anime_song), following [Remix Stacks](https://remix.run/stacks) way with music-related names. Or similar to the word "unison", simultaneous performance of action. 🦌 means the animal "antelope" so the initial letters rhymes with "anison".

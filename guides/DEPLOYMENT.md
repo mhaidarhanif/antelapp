@@ -53,6 +53,10 @@ Put this into the **Build Command** in the **Project Settings**:
 pnpm ci
 ```
 
+### Turbo Ignore
+
+https://vercel.com/changelog/intelligent-ignored-builds-using-turborepo
+
 ## Domain and DNS
 
 The recommended way is to use either:

@@ -4,7 +4,7 @@ Promotional or marketing narration to share on social media.
 
 ---
 
-This is ツ Anison Dev
+This is 🦌 The Anison Stack
 
 Fully featured monorepo starter with React, Remix, and Turborepo
 
