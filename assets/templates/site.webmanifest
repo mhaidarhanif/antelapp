@@ -1,6 +1,6 @@
 {
-  "name": "Anison",
-  "short_name": "Anison",
+  "name": "Antelapp",
+  "short_name": "Antelapp",
   "description": "Monorepo starter with Turborepo, React, Remix, and Tailwind CSS",
   "icons": [
     {

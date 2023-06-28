@@ -4,9 +4,9 @@
 
 Choose your preference to start:
 
-- Generate? [Use this template](https://github.com/haidar-dev/anison-dev/generate).
-- Clone? `git clone git@github.com:haidar-dev/anison.git`
-- `npx`? `npx create-remix@latest --template haidar-dev/anison`
+- Generate? [Use this template](https://github.com/haidar-dev/antelapp-dev/generate).
+- Clone? `git clone git@github.com:haidar-dev/antelapp.git`
+- `npx`? `npx create-remix@latest --template haidar-dev/antelapp`
 - [Deploy with Vercel?](https://vercel.com)
 
 In the local repo:

@@ -4,7 +4,7 @@ Promotional or marketing narration to share on social media.
 
 ---
 
-This is 🦌 The Anison Stack
+This is 🦌 The Antelapp Stack
 
 Fully featured monorepo starter with React, Remix, and Turborepo
 
@@ -18,7 +18,7 @@ Open source and free
 
 This template is what I personally use to build several of my paid projects and @catamyst platform.
 
-Get it here: http://anison.haidar.dev
+Get it here: http://antelapp.haidar.dev
 
 ---
 
@@ -52,4 +52,4 @@ Some more and future plans:
 
 Feel free to send some feedback and fixes
 
-https://github.com/haidar-dev/anison
+https://github.com/haidar-dev/antelapp

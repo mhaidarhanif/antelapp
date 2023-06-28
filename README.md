@@ -1,10 +1,12 @@
-# 🦌 The Anison Stack
+# 🦌 The Antelapp Stack
 
-![🦌 The Anison Stack](assets/images/anison.png)
+![🦌 Antelapp](assets/images/antelapp.png)
 
-[**🦌 The Anison Stack**](https://github.com/haidar-dev/anison-stack) by [M Haidar Hanif](https://github.com/mhaidarhanif) is an app development kit with Turborepo, React, Remix, Tailwind CSS, Prisma, MySQL on PlanetScale, Vercel, Docker, and more. It's also possible to bring other things from the JavaScript, TypeScript, Node.js ecosystems.
+[**🦌 Antelapp**](https://github.com/haidar-dev/antelapp) by [M Haidar Hanif](https://github.com/mhaidarhanif) is an app development kit.
 
-Visit the main demo at [anison.haidar.dev](https://anison.haidar.dev)
+Visit the main demo at [antelapp.haidar.dev](https://antelapp.haidar.dev)
+
+Use Turborepo, React, Remix, Tailwind CSS, Prisma, MySQL on PlanetScale, Docker, Vercel, and more. Bring the others from the JavaScript, TypeScript, Node.js ecosystems.
 
 The goal is to be more prepared when [building real-world apps and ideas](guides/IDEAS.md), ship things fast, also scale the project easily with many moving parts.
 
@@ -42,4 +44,4 @@ Please read these, ordered by importance:
 
 ### Name and Symbol
 
-Anison means [anime song](https://en.wikipedia.org/wiki/Anime_song), following [Remix Stacks](https://remix.run/stacks) way with music-related names. Or similar to the word "unison", simultaneous performance of action. 🦌 means the animal "antelope" so the initial letters rhymes with "anison".
+Antelapp means [anime song](https://en.wikipedia.org/wiki/Anime_song), following [Remix Stacks](https://remix.run/stacks) way with music-related names. Or similar to the word "unison", simultaneous performance of action. 🦌 means the animal "antelope" so the initial letters rhymes with "antelapp".
