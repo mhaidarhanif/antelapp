@@ -1,8 +1,8 @@
-# 🦌 The Antelapp Stack
+# 🦌 Antelapp
 
 ![🦌 Antelapp](assets/images/antelapp.png)
 
-[**🦌 Antelapp**](https://github.com/haidar-dev/antelapp) by [M Haidar Hanif](https://github.com/mhaidarhanif) is an app development kit.
+[**🦌 Antelapp**](https://github.com/haidar-dev/antelapp-stack) is an app development kit made by [M Haidar Hanif](https://github.com/mhaidarhanif).
 
 Visit the main demo at [antelapp.haidar.dev](https://antelapp.haidar.dev)
 
@@ -42,6 +42,6 @@ Please read these, ordered by importance:
 
 - [MIT License](LICENSE)
 
-### Name and Symbol
+### Brand Name
 
-Antelapp means [anime song](https://en.wikipedia.org/wiki/Anime_song), following [Remix Stacks](https://remix.run/stacks) way with music-related names. Or similar to the word "unison", simultaneous performance of action. 🦌 means the animal "antelope" so the initial letters rhymes with "antelapp".
+🦌 Antelapp means the combination of animal "antelope" and "app". Also this project is related to [🐱 Catamyst](https://catamyst.com) and [🐻 Bearmentor](https://bearmentor.com).
