@@ -54,11 +54,12 @@ Alternatives:
 
 - [Remix Forms by Seasoned](https://remix-forms.seasoned.cc) 💠
 
-## Database and ORM
+## Data, Database, ORM
 
 - [Prisma ORM](https://prisma.io) v4: database ORM 🎩🧰💠
 - [MySQL](https://mysql.com) v8: database management system 🎩🧰💠
 - [PlanetScale](https://planetscale.com): MySQL platform 🎩🧩🎉💠
+- [Tier](https://tier.run): Pricing data management 🎩🧰💠
 
 Alternatives:
 

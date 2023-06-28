@@ -1,6 +1,6 @@
 # 🦌 The Anison Stack
 
-![🦌 The Anison Stack](assets/images/anison-stack.png)
+![🦌 The Anison Stack](assets/images/anison.png)
 
 [**🦌 The Anison Stack**](https://github.com/haidar-dev/anison-stack) by [M Haidar Hanif](https://github.com/mhaidarhanif) is an app development kit with Turborepo, React, Remix, Tailwind CSS, Prisma, MySQL on PlanetScale, Vercel, Docker, and more. It's also possible to bring other things from the JavaScript, TypeScript, Node.js ecosystems.
 
