@@ -1,8 +1,8 @@
 # 🦌 Antelapp
 
-![🦌 Antelapp](assets/images/antelapp.png)
+![🦌 Antelapp](assets/images/antelapp-og.png)
 
-[**🦌 Antelapp**](https://github.com/haidar-dev/antelapp-stack) is an app development kit made by [M Haidar Hanif](https://github.com/mhaidarhanif).
+[**🦌 Antelapp**](https://github.com/haidar-dev/antelapp) is an app development kit made by [M Haidar Hanif](https://github.com/mhaidarhanif).
 
 Visit the main demo at [antelapp.haidar.dev](https://antelapp.haidar.dev)
 
