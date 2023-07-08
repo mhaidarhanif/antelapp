@@ -15,6 +15,20 @@ To build a real production application, these are the recommended steps:
 
 [See an EXAMPLE for the completed checklist](START_HERE_EXAMPLE.md).
 
+## 0. Preparation
+
+It's recommended to setup these accounts before everything:
+
+1. Email: Skiff — Free custom Mail, Calendar, Drive, Pages
+2. Credential: Bitwarden — Store all passwords
+3. Network: Cloudflare — Connect domain to Skiff
+4. Repository: GitHub — Setup Code, Issues, Projects, Discussions
+5. Deployment: Vercel — Deploy repo and connect to domain
+6. Data: Airtable — Simulate real data
+7. Misc: Google — Without Gmail only for other Google services like YouTube
+
+Read more on the [STACK](./STACK.md).
+
 ## 1. Goal
 
 Set the application goal and its effect on the business to solve a very specific problem.
