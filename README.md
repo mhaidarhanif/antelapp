@@ -4,7 +4,7 @@
 
 [**🦌 Antelapp**](https://github.com/mhaidarhanif/antelapp) is an app development kit made by [M Haidar Hanif](https://github.com/mhaidarhanif).
 
-Visit the main demo at [antelapp.dev](https://antelapp.dev)
+Visit the main demo at [antelapp.com](https://antelapp.com)
 
 Use Turborepo, React, Remix, Tailwind CSS, Prisma, MySQL on PlanetScale, Docker, Vercel, and more. Bring the others from the JavaScript, TypeScript, Node.js ecosystems.
 
@@ -43,4 +43,3 @@ Please read these, ordered by importance:
 ### Brand Name
 
 🦌 Antelapp means the combination of animal "antelope" and "app". Also this project is related to [🐾 Allnimal](https://example.com), [🐱 Catamyst](https://catamyst.com), and [🐻 Bearmentor](https://bearmentor.com).
-
